@@ -1,5 +1,6 @@
-# gulp-starter
- A gulp boilerplate
+# Fun with colors
+
+Based on the gulp-starter
 
 ## Instructions
 ### Installation
